@@ -1,4 +1,5 @@
 ## Hi there 👋
+Computer Science student passionate about programming, problem-solving, and building real-world applications. Exploring data structures, algorithms, and AI while continuously learning and improving.
 
 <!--
 **Vivekshah8791/Vivekshah8791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
